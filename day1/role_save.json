@@ -1,0 +1,9 @@
+{
+    "name": "无名剑客",
+    "base_damage": 10,
+    "strength": 18,
+    "agility": 10,
+    "buffs": [
+        "攻击力+10%"
+    ]
+}
