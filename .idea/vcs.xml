@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/hao_repository" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/hao_repository/first-group" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git/first-group" vcs="Git" />
   </component>
 </project>
